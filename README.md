@@ -1,2 +1,2 @@
 # data_analysis_projects
-this repository contains data analysis projects from a variaty of data sources such as marketing data, scientific data...
+
